@@ -10,7 +10,6 @@ const urlMain = "http://shirts4mike.com/";
 const entry = "http://shirts4mike.com/shirts.php";
 const fields = ['Title', 'Price', 'ImageUrl', 'URL', 'Time'];
 
-
 scrapeIt(`${entry}`,{
   shirts:{
   listItem: '.products li',
