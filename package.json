@@ -1,0 +1,16 @@
+{
+  "name": "project6",
+  "version": "1.0.0",
+  "description": "Content Scraper",
+  "main": "scraper.js",
+  "dependencies": {
+    "json2csv": "^3.9.1",
+    "scrape-it": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hem Bhatt",
+  "license": "MIT"
+}
